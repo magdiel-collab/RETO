@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+header a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+header a:hover {
+  color: #007bff;
+}
+
+.hero {
+  background-image: url('../img/artesania.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
